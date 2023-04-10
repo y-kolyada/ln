@@ -1,2 +1,1 @@
-# ln
-Linkedin Learning
+# ln - Linkedin Learning
